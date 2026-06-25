@@ -14,8 +14,7 @@ Tags
 computer engineering,database systems,DBS,machine learning,university life,UET Lahore
 
 Image:
-/assets/dbs-thumbnail.png
-
+/assets/pf_gpa_thumbnail_preview.png
 If the online classes were the part of this semester that tested my patience, the Database Systems project was the part that tested everything else — my teamwork, my ability to actually apply what we had been taught in lectures, and honestly my understanding of how a database and a machine learning model are supposed to talk to each other in a real application instead of just existing as two separate things in two separate notebooks.
 
 For our final project, our group decided to build a diabetes prediction system — something that takes health-related data and predicts whether a person is likely to have diabetes based on patterns learned from existing records.
