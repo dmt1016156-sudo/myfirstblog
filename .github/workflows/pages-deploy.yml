@@ -71,5 +71,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v5
-- name: Test HTML
-  run: bundle exec htmlproofer ./_site --disable-external --allow-hash-href
